@@ -51,7 +51,7 @@ How can using chain prompts help reduce errors and inconsistency in complex task
 What HTTP status code does an overloaded_error event correspond to in a non-streaming context for the Anthropic API?,0.6666666666666666,1.0,1.0,True
 What are the two ways to specify the format in which Voyage AI returns embeddings through its HTTP API?,0.3333333333333333,1.0,1.0,True
 "When streaming API requests that use tools, how are the input JSON deltas for tool_use content blocks sent, and how can they be accumulated and parsed by the client?",0.3333333333333333,0.5,1.0,True
-"What are the two interactive prompt engineering tutorials that Anthropic offers, and how do they differ?",0.6666666666666666,1.0,1.0,False
+"What are the two interactive prompt engineering tutorials that Anthropic offers, and how do they differ?",0.6666666666666666,1.0,1.0,True
 What are some of the key capabilities that make Claude suitable for enterprise use cases requiring integration with specialized applications and processing of large volumes of sensitive data?,0.3333333333333333,1.0,0.5,True
 "As of June 2024, in which regions are Anthropic's Claude.ai API and iOS app available?",0.6666666666666666,0.6666666666666666,1.0,False
 "What are the two main approaches for integrating Claude into a support ticket workflow, and how do they differ in terms of scalability and ease of implementation?",0.6666666666666666,1.0,1.0,True
@@ -93,7 +93,7 @@ On what date did both the Claude 3.5 Sonnet model and the Artifacts feature in C
 What does the temperature parameter do when working with large language models?,0.3333333333333333,0.5,1.0,True
 What are two ways to specify API parameters when calling the Claude API using Claude for Sheets?,0.3333333333333333,0.3333333333333333,0.5,False
 How does prefilling the response with an opening curly brace ({ ) affect Claude's output when extracting structured data from text?,0.3333333333333333,1.0,1.0,True
-What are some helpful resources provided by Anthropic to dive deeper into building with images using Claude?,0.3333333333333333,0.5,0.5,True
+What are some helpful resources provided by Anthropic to dive deeper into building with images using Claude?,0.3333333333333333,0.5,0.5,False
 How do you specify the API key when creating a new Anthropic client in the Python and TypeScript SDK examples?,0.3333333333333333,0.5,0.3333333333333333,True
 What are two key benefits of using the Anthropic Evaluation tool when developing prompts for an AI classification application?,0.3333333333333333,0.5,0.5,True
 "What are the key differences between a pretrained language model like Claude's underlying model, and the final version of Claude available through Anthropic's API?",0.0,0.0,0.0,False
